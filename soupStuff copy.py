@@ -7,3 +7,5 @@ soup = BeautifulSoup(page.text, 'css')
 newSoup = soup.find('table',
                     class_='MuiGrid-root MuiGrid-grid-xs-12 css-7j6nx7')
 print(newSoup)
+print("hello there")
+print("idk brah i just be cooling")
